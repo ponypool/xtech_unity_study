@@ -1,0 +1,33 @@
+
+newmtl Standard737373
+Kd  0.4509804 0.4509804 0.4509804
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
+
+newmtl StandardFFB400
+Kd  01 0.7058824 00
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
+
+newmtl StandardFFC500
+Kd  01 0.77254904 00
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
